@@ -100,4 +100,12 @@ export const newsItems: NewsItem[] = [
       "関西スタートアップレポートに代表取締役のインタビュー記事が掲載",
     url: "https://www.seitaikai.com/post/txppie",
   },
+  {
+    id: "20260526-ecosystem-link",
+    date: "2026-05-26",
+    tag: "イベント",
+    title:
+      "Ecosystem Link#50 presented by It's Sta.に代表取締役が登壇",
+    url:"https://u-fino.com/event/list/detail/000532.html",
+  }
 ];
