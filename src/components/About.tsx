@@ -4,7 +4,7 @@ export function About() {
     { label: "設立", value: "2025年10月23日" },
     {
       label: "所在地",
-      value: "〒532-0023 大阪府大阪市淀川区東三国1丁目20-9-201",
+      value: "〒530-0005 大阪府大阪市北区中之島4丁目3−51 Nakanoshima Qross 8F",
     },
     { label: "事業内容", value: "医療情報プラットフォーム事業" },
     {

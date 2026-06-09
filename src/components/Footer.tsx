@@ -121,9 +121,9 @@ export function Footer({ onNavigate }: FooterProps) {
             <ul className="space-y-2 sm:space-y-3 text-sm text-gray-400">
               <li>info@txp.co.jp</li>
               <li>
-                〒532-0023
+                〒530-0005
                 <br />
-                大阪府大阪市淀川区東三国1丁目20-9-201
+                大阪府大阪市北区中之島4丁目3−51 Nakanoshima Qross 8F
               </li>
             </ul>
           </div>
