@@ -122,7 +122,7 @@ export function FooterEn({ onNavigate }: FooterEnProps) {
               <li>
                 Nakanoshima Qross 8F, 4-3-51 Nakanoshima
                 <br />
-                Kita-ku, Osaka 532-0023, Japan
+                Kita-ku, Osaka 530-0005, Japan
               </li>
             </ul>
           </div>
