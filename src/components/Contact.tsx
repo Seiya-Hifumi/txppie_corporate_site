@@ -2,7 +2,10 @@ import { Mail, MapPin } from "lucide-react";
 
 export function Contact() {
   return (
-    <section id="contact" className="py-20 sm:py-32 bg-gray-50 relative overflow-hidden">
+    <section
+      id="contact"
+      className="py-20 sm:py-32 bg-gray-50 relative overflow-hidden"
+    >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-12 relative z-10">
         <div className="mb-12 sm:mb-16">
           <p className="text-sm text-[#00897B] mb-3 sm:mb-4 tracking-[0.2em] uppercase">
@@ -13,7 +16,9 @@ export function Contact() {
         </div>
 
         <div className="max-w-3xl mx-auto">
-          <h3 className="text-gray-900 mb-4 sm:mb-6 text-center">お気軽にご連絡ください</h3>
+          <h3 className="text-gray-900 mb-4 sm:mb-6 text-center">
+            お気軽にご連絡ください
+          </h3>
           <p className="text-gray-600 mb-8 sm:mb-12 text-lg text-center">
             サービスに関するご質問や、取材・パートナーシップ等のご相談など
           </p>
@@ -24,8 +29,13 @@ export function Contact() {
                   <Mail className="text-[#00897B]" size={24} />
                 </div>
                 <div>
-                  <div className="text-sm text-gray-500 mb-2 uppercase tracking-wide">Email</div>
-                  <a href="mailto:info@txp.co.jp" className="text-gray-900 text-lg hover:text-[#00897B] transition-colors">
+                  <div className="text-sm text-gray-500 mb-2 uppercase tracking-wide">
+                    Email
+                  </div>
+                  <a
+                    href="mailto:info@txp.co.jp"
+                    className="text-gray-900 text-lg hover:text-[#00897B] transition-colors"
+                  >
                     info@txp.co.jp
                   </a>
                 </div>
@@ -35,10 +45,13 @@ export function Contact() {
                   <MapPin className="text-[#00897B]" size={24} />
                 </div>
                 <div>
-                  <div className="text-sm text-gray-500 mb-2 uppercase tracking-wide">Address</div>
+                  <div className="text-sm text-gray-500 mb-2 uppercase tracking-wide">
+                    Address
+                  </div>
                   <div className="text-gray-900 text-lg">
-                    〒532-0023<br />
-                    大阪府大阪市淀川区東三国1丁目20-9-201
+                    〒530-0005
+                    <br />
+                    大阪府大阪市北区中之島4丁目3−51 Nakanoshima Qross 8F
                   </div>
                 </div>
               </div>

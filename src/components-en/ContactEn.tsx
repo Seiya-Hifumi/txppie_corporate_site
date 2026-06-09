@@ -2,7 +2,10 @@ import { Mail, MapPin } from "lucide-react";
 
 export function ContactEn() {
   return (
-    <section id="contact" className="py-20 sm:py-32 bg-gray-50 relative overflow-hidden">
+    <section
+      id="contact"
+      className="py-20 sm:py-32 bg-gray-50 relative overflow-hidden"
+    >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-12 relative z-10">
         <div className="mb-12 sm:mb-16">
           <p className="text-sm text-[#00897B] mb-3 sm:mb-4 tracking-[0.2em] uppercase">
@@ -13,9 +16,12 @@ export function ContactEn() {
         </div>
 
         <div className="max-w-3xl mx-auto">
-          <h3 className="text-gray-900 mb-4 sm:mb-6 text-center">Please feel free to contact us</h3>
+          <h3 className="text-gray-900 mb-4 sm:mb-6 text-center">
+            Please feel free to contact us
+          </h3>
           <p className="text-gray-600 mb-8 sm:mb-12 text-lg text-center">
-            For questions about our services, media inquiries, or partnership opportunities.
+            For questions about our services, media inquiries, or partnership
+            opportunities.
           </p>
           <div className="bg-white border border-gray-200 rounded-lg p-8 sm:p-12">
             <div className="space-y-6 sm:space-y-8">
@@ -24,8 +30,13 @@ export function ContactEn() {
                   <Mail className="text-[#00897B]" size={24} />
                 </div>
                 <div>
-                  <div className="text-sm text-gray-500 mb-2 uppercase tracking-wide">Email</div>
-                  <a href="mailto:info@txp.co.jp" className="text-gray-900 text-lg hover:text-[#00897B] transition-colors">
+                  <div className="text-sm text-gray-500 mb-2 uppercase tracking-wide">
+                    Email
+                  </div>
+                  <a
+                    href="mailto:info@txp.co.jp"
+                    className="text-gray-900 text-lg hover:text-[#00897B] transition-colors"
+                  >
                     info@txp.co.jp
                   </a>
                 </div>
@@ -35,10 +46,13 @@ export function ContactEn() {
                   <MapPin className="text-[#00897B]" size={24} />
                 </div>
                 <div>
-                  <div className="text-sm text-gray-500 mb-2 uppercase tracking-wide">Address</div>
+                  <div className="text-sm text-gray-500 mb-2 uppercase tracking-wide">
+                    Address
+                  </div>
                   <div className="text-gray-900 text-lg">
-                    Room 201, 1-20-9 Higashimikuni<br />
-                    Yodogawa-ku, Osaka 532-0023, Japan
+                    Nakanoshima Qross 8F, 4-3-51 Nakanoshima
+                    <br />
+                    Kita-ku, Osaka 532-0023, Japan
                   </div>
                 </div>
               </div>
