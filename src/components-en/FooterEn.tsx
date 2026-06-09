@@ -120,9 +120,11 @@ export function FooterEn({ onNavigate }: FooterEnProps) {
             <ul className="space-y-2 sm:space-y-3 text-sm text-gray-400">
               <li>info@txp.co.jp</li>
               <li>
-                Nakanoshima Qross 8F, 4-3-51 Nakanoshima
+                Nakanoshima Qross 8F
                 <br />
-                Kita-ku, Osaka 532-0023, Japan
+                4-3-51 Nakanoshima, Kita-ku
+                <br />
+                Osaka, 530-0005, Japan
               </li>
             </ul>
           </div>

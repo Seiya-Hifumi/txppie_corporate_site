@@ -5,7 +5,7 @@ export function AboutEn() {
     {
       label: "Address",
       value:
-        "Nakanoshima Qross 8F, 4-3-51 Nakanoshima, Kita-ku, Osaka 532-0023, Japan",
+        "Nakanoshima Qross 8F, 4-3-51 Nakanoshima, Kita-ku, Osaka 530-0005, Japan",
     },
     { label: "Business", value: "Medical information platform business" },
     {

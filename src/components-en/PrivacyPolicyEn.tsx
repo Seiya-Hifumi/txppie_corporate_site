@@ -23,7 +23,7 @@ export function PrivacyPolicyEn() {
               <p>Corporate name: TxPPIE Inc.</p>
               <p>
                 Address: Nakanoshima Qross 8F, 4-3-51 Nakanoshima, Kita-ku,
-                Osaka 532-0023, Japan
+                Osaka 530-0005, Japan
               </p>
               <p>Representative: Haruya Hifumi</p>
               <p>
