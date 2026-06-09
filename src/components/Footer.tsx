@@ -123,7 +123,9 @@ export function Footer({ onNavigate }: FooterProps) {
               <li>
                 〒530-0005
                 <br />
-                大阪府大阪市北区中之島4丁目3−51 Nakanoshima Qross 8F
+                大阪府大阪市北区中之島4丁目3−51
+                <br />
+                Nakanoshima Qross 8F
               </li>
             </ul>
           </div>
